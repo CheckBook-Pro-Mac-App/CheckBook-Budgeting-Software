@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://michaeldavisfren.github.io/.github/checkbook">  
+<a href="https://astridduday3108.github.io/.github/checkbook">  
 <img src="https://img.shields.io/badge/GET_CheckBook-darkgreen?style=for-the-badge&logo=apple" alt="GET CheckBook">  
 </a>  
 </div>  
