@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://avadukeenka4488.github.io/.github/checkbook">  
+<a href="https://checkbook-pro-mac-app.github.io/.github/">  
 <img src="https://img.shields.io/badge/GET_CheckBook-darkgreen?style=for-the-badge&logo=apple" alt="GET CheckBook">  
 </a>  
 </div>  
